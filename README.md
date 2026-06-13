@@ -60,25 +60,25 @@ Worked on multiple enterprise-scale data platforms focused on data ingestion, tr
 
 🧰 Tech Stack
 
-Languages:
+- Languages:
 Python, JavaScript, SQL, C/C++
 
-Big Data & Data Engineering:
+- Big Data & Data Engineering:
 Apache Spark, PySpark, Airflow, NiFi, Databricks, Delta Lake
 
-Cloud Platforms:
+- Cloud Platforms:
 AWS (S3, Athena, EMR), Azure (Data Factory, OpenAI services)
 
-AI / ML:
+- AI / ML:
 RAG, LLM-based systems, Pandas, Polars, TensorFlow, PyTorch
 
-Backend:
+- Backend:
 FastAPI, Flask, Node.js
 
-Frontend:
+- Frontend:
 React, Redux, Vue.js, Tailwind CSS
 
-DevOps:
+- DevOps:
 Docker, Terraform, GitHub Actions
 
 Databases:
