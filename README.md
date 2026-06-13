@@ -18,6 +18,7 @@ I specialize in:
 
 
 💼 Professional Experience
+
 🏗 Data Engineer
 
 Worked on multiple enterprise-scale data platforms focused on data ingestion, transformation, orchestration, and analytics in distributed cloud environments.
@@ -81,5 +82,14 @@ React, Redux, Vue.js, Tailwind CSS
 - DevOps:
 Docker, Terraform, GitHub Actions
 
-Databases:
+- Databases:
 PostgreSQL, MySQL, MongoDB
+
+🏆 Certifications
+- AWS Data Engineer Associate
+- Databricks Data Analyst Associate
+- Databricks Data Engineer Professional
+- Terraform Associate (003)
+- Azure Administrator (AZ-104)
+- Azure Data Fundamentals (DP-900)
+- Snowflake
