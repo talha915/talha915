@@ -93,3 +93,5 @@ PostgreSQL, MySQL, MongoDB
 - Azure Administrator (AZ-104)
 - Azure Data Fundamentals (DP-900)
 - Snowflake
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha915&show_icons=true&theme=dark)
