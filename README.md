@@ -4,7 +4,7 @@ Data Engineer with experience in building large-scale data platforms, ETL pipeli
 
 I specialize in:
 
-🧠 Data Engineering (PySpark, Databricks, Apache Spark)
+🧠 Data Engineering (PySpark, Databricks, Apache Spark, DBT)
 
 ☁️ Cloud Architecture (AWS, Azure)
 
