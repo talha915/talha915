@@ -94,4 +94,11 @@ PostgreSQL, MySQL, MongoDB
 - Azure Data Fundamentals (DP-900)
 - Snowflake
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha915&show_icons=true&theme=dark)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=talha915&theme=dark)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talha915&layout=compact&theme=dark)
