@@ -15,3 +15,15 @@ I specialize in:
 🛠 DevOps & CI/CD (GitHub Actions, Terraform, Docker)
 
 🌐 Full-Stack Development (React, FastAPI, Flask)
+
+
+💼 Professional Experience
+🏗 Data Engineer
+
+Worked on multiple enterprise-scale data platforms focused on data ingestion, transformation, orchestration, and analytics in distributed cloud environments.
+
+🔹 Data Platform & Analytics Engineering
+- Designed and maintained large-scale PySpark-based data pipelines
+- Built Delta Lake / Lakehouse architectures for structured analytics
+- Implemented data modeling, transformations, and performance optimization
+- Developed monitoring dashboards and cost/usage tracking systems
