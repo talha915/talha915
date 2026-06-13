@@ -1,9 +1,7 @@
 👨‍💻 About Me
 
 Data Engineer with experience in building large-scale data platforms, ETL pipelines, and cloud-native systems across enterprise environments in Germany and international teams.
-
 I specialize in:
-
 🧠 Data Engineering (PySpark, Databricks, Apache Spark)
 ☁️ Cloud Architecture (AWS, Azure)
 🔄 ETL & Data Pipelines (NiFi, Airflow, ADF)
