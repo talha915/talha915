@@ -92,7 +92,7 @@ PostgreSQL, MySQL, MongoDB
 - Terraform Associate (003)
 - Azure Administrator (AZ-104)
 - Azure Data Fundamentals (DP-900)
-- Snowflake
+- SnowPro Associate: Platform Certification
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha915&show_icons=true&theme=dark)
